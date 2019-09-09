@@ -14,5 +14,11 @@ MacOS/Linux/Windows Machine with preferred choice of forensics software.
  
  Massive thanks for providing the images to use.
 
+Tools:
+Autopsy:https://autopsy.com/
+FTK Imager:https://accessdata.com/product-download/ftk-imager-version-4-2-1
+RegRipper:https://github.com/keydet89/RegRipper2.8
+Magnet AXIOM:https://www.magnetforensics.com/products/magnet-axiom/
+
 
 *AXIOM is a paid product. Massive thank you to my boss DW at Cylance for helping out and getting us access for the workshop.
