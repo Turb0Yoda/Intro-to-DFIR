@@ -17,6 +17,7 @@ MacOS/Linux/Windows Machine with preferred choice of forensics software.
 Tools:
 Autopsy:https://autopsy.com/
 FTK Imager:https://accessdata.com/product-download/ftk-imager-version-4-2-1
+  You will need to make an "Account" to get access to the download.
 RegRipper:https://github.com/keydet89/RegRipper2.8
 Magnet AXIOM:https://www.magnetforensics.com/products/magnet-axiom/
 
