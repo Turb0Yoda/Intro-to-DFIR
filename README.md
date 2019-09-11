@@ -6,7 +6,7 @@ This will host my slides and info needed for the presentation.
 
 Things needed:
 MacOS/Linux/Windows Machine with preferred choice of forensics software.
-  I will be demoing Autopsy, FTK Imager, RegRipper, and Magnet AXIOM* in the workshop.
+  I will be demoing Autopsy, FTK Imager, RegRipper, and Magnet AXIOM* in the workshop. Windows is the reccomended OS- RegRipper does not have a GUI on MacOS.
   
   
  We are using the MS7-Jean images provided by Digital Corpora here:
