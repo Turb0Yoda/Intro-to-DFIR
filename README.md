@@ -25,7 +25,9 @@ FTK Imager:https://accessdata.com/product-download/ftk-imager-version-4-2-1
   
 RegRipper:https://github.com/keydet89/RegRipper2.8
 
+Log Parser 2.2: https://www.microsoft.com/en-us/download/details.aspx?id=24659
 
+----------------------------
 Magnet AXIOM:https://www.magnetforensics.com/products/magnet-axiom/
 
 
